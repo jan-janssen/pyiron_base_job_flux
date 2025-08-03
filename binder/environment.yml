@@ -4,3 +4,6 @@ dependencies:
 - python
 - flux-core
 - pyiron_base=0.13.3
+- pyiron_atomistics=0.7.13
+- lammps =2024.06.27=*openmpi*
+- iprpy-data =2023.07.25
